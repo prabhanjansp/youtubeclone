@@ -20,7 +20,11 @@ const Searchbar = () => {
         placeholder="Search..."
         value=""
         onChange={() => {}}
-      />{" "}
+        style={{borderStyle: "none", }}
+      />
+      <IconButton type="submit"sx={{ p: "10px", color:"red" }} aria-label="search"> 
+        <SearchIcon />
+      </IconButton>
     </Paper>
   );
 };
