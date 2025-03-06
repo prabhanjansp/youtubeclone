@@ -23,12 +23,17 @@ const ChannelDetail = () => {
         <Box>
           <div
             style={{
-              backgroundColor:"rgb(230, 128, 32)",
+              backgroundColor: "rgb(230, 128, 32)",
               zIndex: 10,
               height: "300px",
             }}
           />
-          <ChannelCard channelDetail={channelDetail} marginTop="-95px" />
+          <ChannelCard channelDetail={channelDetail} marginTop="-110px" />
+        </Box>
+        <Box display="flex" p="2">
+          <Box sx={{ mr: { sm: "100px" } }}/>
+            <Videos videos={videoDetail} />
+       
         </Box>
       </Box>
     </>
