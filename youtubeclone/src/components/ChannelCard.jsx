@@ -27,7 +27,6 @@ const ChannelCard = ({ channelDetail,marginTop }) => (
           justifyContent: "center",
           textAlign: "center",
           color: "#fff",
-          // bgcolor: "#1e1e1e",
         }}
       >
         <CardMedia
