@@ -1,5 +1,5 @@
 YouTube Clone
-![Uploading Screenshot 2025-12-23 215509.png…]()
+![App Screenshot](./one.png)
 
 
 🚀 Live Demo
