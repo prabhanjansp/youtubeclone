@@ -4,6 +4,7 @@ YouTube Clone
 https://rococo-horse-9ef7de.netlify.app/
 
 View the Live Application
+![alt text](<Screenshot 2025-12-23 215509.png>)
 
 📌 Overview
 
